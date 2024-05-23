@@ -19,6 +19,8 @@ While we were working specifically with presidential papers, we also tested our 
  * Calculated TF*IDF scores for a subset of tokens in six volumes of presidential papers from different presidents
  * Saved CSVs containing TF*IDF scores and visualized results in wordclouds showing most distinctive terms 
 
+![pres_wordclouds](https://github.com/igwink/HTRC_Hackathon_Presidents/assets/35858990/02c6960c-c72c-4527-a98e-54d831a2cd28)
+
 ## Next Steps
  * Gain a stronger familiarity with the contents of the Public Papers of the Presidents of the United States series so we can interpret our results and understand potential limitations. 
  * Use LLM to tag volumes by presidential administration to be able to expand beyond our original six volumes
